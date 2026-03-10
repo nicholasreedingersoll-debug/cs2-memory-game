@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: darkmagenta;
     font-family: Helvetica;
     text-align: center;
 }
@@ -9,8 +9,8 @@ h1 {
 }
 
 .card {
-    background-color: chocolate;
-    color: white;
+    background-color: purple;
+    color: purple;
     width: 180px;
     height: 180px;
     border-radius: 20px;
